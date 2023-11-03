@@ -1,0 +1,26 @@
+arch
+black
+# Cython
+linearmodels
+matplotlib
+mizani
+numpy
+openpyxl
+patchworklib
+pandas
+pandas-market-calendars
+plotnine
+pmdarima
+prophet
+pydotplus
+# pystan
+regex
+scikit-learn
+scipy
+shap
+stargazer
+statsmodels
+syntheticcontrolmethods
+seaborn
+plotly
+plotly-express
